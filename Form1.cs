@@ -87,7 +87,7 @@ namespace Student_Manager
         {
             txtName.Text = "";
             txtClass.Text = "";
-            cboGender.Text = "";
+            cboGender.Text = " ";
         }
     }
 }
