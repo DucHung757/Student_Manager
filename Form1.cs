@@ -86,8 +86,8 @@ namespace Student_Manager
         private void btnReset_Click(object sender, EventArgs e)
         {
             txtName.Text = "";
-            txtClass.Text = " ";
-            cboGender.Text = " ";
+            txtClass.Text = "";
+            cboGender.Text = "";
         }
     }
 }
